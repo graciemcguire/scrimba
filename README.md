@@ -7,7 +7,6 @@
 
 ## Phase 1
 
-- No Scrimba
 Videos:
 - [Variables and Data Types](https://learning.flatironschool.com/courses/3297/modules/items/270713)
 - [JavaScript Conditionals](https://learning.flatironschool.com/courses/3297/modules/items/270711)

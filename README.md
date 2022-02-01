@@ -49,7 +49,7 @@ Scrimba:
 - [State & Events](https://learning.flatironschool.com/courses/3264/modules/items/225404)
 - [Think in React](https://learning.flatironschool.com/courses/3264/modules/items/225405)
 - [Side Effects & Data Fetching](https://learning.flatironschool.com/courses/3264/modules/items/225406)
-- [Chatterbox Practice Challenge](https://learning.flatironschool.com/courses/3264/modules/items/225406)
+- [Chatterbox Practice Challenge](https://learning.flatironschool.com/courses/3264/modules/items/225408)
 - [React Router](https://learning.flatironschool.com/courses/3264/modules/items/225409)
 - [Advanced Hooks](https://learning.flatironschool.com/courses/3264/modules/items/225410)
 

@@ -108,7 +108,7 @@ Videos:
 - [Faker](https://learning.flatironschool.com/courses/4182/modules/items/303917)
 - [Rails Routes](https://learning.flatironschool.com/courses/4182/modules/items/303922)
 - [REST](https://learning.flatironschool.com/courses/4182/modules/items/303923)
-- [CRUD App Introduction]()
+- [CRUD App Introduction](https://learning.flatironschool.com/courses/4182/modules/items/303931)
 - [Index](https://learning.flatironschool.com/courses/4182/modules/items/303931)
 - [Show](https://learning.flatironschool.com/courses/4182/modules/items/303929)
 - [Create](https://learning.flatironschool.com/courses/4182/modules/items/303926)

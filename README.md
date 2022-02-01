@@ -55,7 +55,43 @@ Scrimba:
 
 ## Phase 3
 
-- No Scrimba
+Videos:
+- [Data Types and Variables](https://learning.flatironschool.com/courses/3299/modules/items/294197)
+- [Methods and Parameters](https://learning.flatironschool.com/courses/3299/modules/items/294198)
+- [Pry](https://learning.flatironschool.com/courses/3299/modules/items/294199)
+- [Conditionals](https://learning.flatironschool.com/courses/3299/modules/items/294196)
+- [Arrays](https://learning.flatironschool.com/courses/3299/modules/items/294200)
+- [Hashes](https://learning.flatironschool.com/courses/3299/modules/items/294203)
+- [Enumerables](https://learning.flatironschool.com/courses/3299/modules/items/294201)
+- [Hash Enumerables](https://learning.flatironschool.com/courses/3299/modules/items/294202)
+- [Intro to Classes](https://learning.flatironschool.com/courses/3299/modules/items/294206)
+- [Initialize](https://learning.flatironschool.com/courses/3299/modules/items/294205)
+- [Getters and Setters](https://learning.flatironschool.com/courses/3299/modules/items/294204)
+- [Initialize All Together](https://learning.flatironschool.com/courses/3299/modules/items/294209)
+- [Self](https://learning.flatironschool.com/courses/3299/modules/items/294207)
+- [Class Methods](https://learning.flatironschool.com/courses/3299/modules/items/294208)
+- [Private Methods](https://learning.flatironschool.com/courses/3299/modules/items/294210)
+- [Inheritance](https://learning.flatironschool.com/courses/3299/modules/items/294211)
+- [Metaprogramming - Mass Assignment](https://learning.flatironschool.com/courses/3299/modules/items/294213)
+- [Metaprogramming - Define Methods](https://learning.flatironschool.com/courses/3299/modules/items/294212)
+- [Intro to SQL](https://learning.flatironschool.com/courses/3299/modules/items/294214)
+- [SQL SELECT](https://learning.flatironschool.com/courses/3299/modules/items/294217)
+- [SQL CREATE TABLE](https://learning.flatironschool.com/courses/3299/modules/items/294215)
+- [SQL INSERT](https://learning.flatironschool.com/courses/3299/modules/items/294216)
+- [SQL UPDATE and DELETE](https://learning.flatironschool.com/courses/3299/modules/items/294218)
+- [SQL Joins](https://learning.flatironschool.com/courses/3299/modules/items/294219)
+- [ORMs Inheritance and Metaprogramming](https://learning.flatironschool.com/courses/3299/modules/items/294220)
+- [Active Record Migrations](https://learning.flatironschool.com/courses/3299/modules/items/294221)
+- [Active Record Read and Create](https://learning.flatironschool.com/courses/3299/modules/items/294821)
+- [Active Record Update and Delete](https://learning.flatironschool.com/courses/3299/modules/items/294822)
+- [Active Record One to Many](https://learning.flatironschool.com/courses/3299/modules/items/294823)
+- [Intro to the Internet](https://learning.flatironschool.com/courses/3299/modules/items/294222)
+- [Sinatra Intro](https://learning.flatironschool.com/courses/3299/modules/items/294226)
+- [Sinatra Configuration](https://learning.flatironschool.com/courses/3299/modules/items/294223)
+- [Sinatra MVC](https://learning.flatironschool.com/courses/3299/modules/items/294227)
+- [Sinatra GET](https://learning.flatironschool.com/courses/3299/modules/items/294225)
+- [Sinatra Show and Destroy](https://learning.flatironschool.com/courses/3299/modules/items/294228)
+- [Sinatra Create](https://learning.flatironschool.com/courses/3299/modules/items/294224)
 
 ## Phase 4
 
